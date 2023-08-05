@@ -1,0 +1,28 @@
+/* Write your CSS here */
+
+.team-link {
+  text-decoration: none;
+  width: 50%;
+}
+
+.each-team {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  background-color: rgba(142, 143, 145, 0.5);
+  border: 2px solid #d9dce0;
+  border-radius: 5px;
+  margin: 10px;
+  height: 120px;
+}
+
+.team-image {
+  height: 80px;
+  margin-right: 5px;
+}
+
+.team-name {
+  color: #ffffff;
+  font-family: Bree Serif;
+  font-size: 20px;
+}

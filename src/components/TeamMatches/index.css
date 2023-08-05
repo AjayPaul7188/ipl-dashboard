@@ -1,0 +1,69 @@
+/* Write your CSS here */
+
+.rcb-bg {
+  background-image: linear-gradient(to bottom, #a4261d, #1e293b);
+  background-size: cover;
+}
+
+.kkr-bg {
+  background-image: linear-gradient(to bottom, #4f5db0, #5755a7);
+  background-size: cover;
+}
+
+.kxp-bg {
+  background-image: linear-gradient(to bottom, #d91c1f, #1e293b);
+  background-size: cover;
+}
+
+.csk-bg {
+  background-image: linear-gradient(to bottom, #f7db00, #f26d22);
+  background-size: cover;
+}
+
+.rr-bg {
+  background-image: linear-gradient(to bottom, #da237b, #4f5db0);
+  background-size: cover;
+}
+
+.mi-bg {
+  background-image: linear-gradient(to bottom, #13418b, #4f5db0);
+  background-size: cover;
+}
+
+.sh-bg {
+  background-image: linear-gradient(to bottom, #f26d22, #1e293b);
+  background-size: cover;
+}
+
+.dc-bg {
+  background-image: linear-gradient(to bottom, #f26d22, #13418b);
+  background-size: cover;
+}
+
+.team-matches-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 25px;
+  width: 60%;
+}
+
+.banner {
+  height: 35vh;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.sub-head {
+  color: #ffffff;
+  font-family: Bree Serif;
+  font-size: 15px;
+  align-self: flex-start;
+}
+
+.recent-matches-container {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  padding: 0px;
+}
